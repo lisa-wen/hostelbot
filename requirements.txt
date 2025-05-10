@@ -1,0 +1,5 @@
+python-telegram-bot
+python-dotenv~=1.1.0
+scikit-learn
+scikit-learn==1.4.0
+dotenv~=0.9.9
