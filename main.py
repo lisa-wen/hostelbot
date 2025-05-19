@@ -6,7 +6,7 @@ import os
 import json
 
 
-WEDDING = range(0)
+WEDDING = range(1)
 # Die Daten aus den Dateien laden
 with open('model.pkl', 'rb') as file:
     model = pickle.load(file)
